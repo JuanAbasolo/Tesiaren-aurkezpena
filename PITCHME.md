@@ -13,11 +13,11 @@
 
 ---
 
-# ==Zailtasunak== adizki jokatuaren inguruan B2-C1 ibilbidean
+# Zailtasunak adizki jokatuaren inguruan B2-C1 ibilbidean
 
 ---
 
-==Marko teorikoa==
+<span color:##e49436">Marko **teorikoa**</span>
 
 Helburuak
 
@@ -46,4 +46,5 @@ Kaxio!
 Goodbye!
 
 +++
+
 Agur!
