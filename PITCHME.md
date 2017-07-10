@@ -17,7 +17,7 @@
 
 ---
 
-<span color:##e49436">Marko **teorikoa**</span>
+<span style="font-family: Helvetica Neue; font-weight: bold; color:#ffffff"><span color:##e49436">Marko **teorikoa**</span>!
 
 
 Helburuak
