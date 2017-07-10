@@ -35,3 +35,15 @@ Gero zer
 
 ___
 
+Hello!
+
++++
+
+Kaxio!
+
+---
+
+Goodbye!
+
++++
+Agur!
