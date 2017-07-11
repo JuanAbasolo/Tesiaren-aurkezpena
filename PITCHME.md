@@ -38,11 +38,12 @@
 
 # <span style="color:#9B1818">Zailtasunak</span> adizki jokatuaren inguruan B2-C1 ibilbidean
 
-+++?image=https://www.researchgate.net/profile/Niels_Schiller/publication/9049873/figure/fig1/AS:277638124982272@1443205495453/Fig-1-Levelt%27s-model-of-serial-processing-in-speech-production-The-two-gray-boxes.png.file&size=auto 90%
+
++++
 
 ### Zailtasunak = zalantzak + zuzenketak + erroreak
 
-
++++?image=https://www.researchgate.net/profile/Niels_Schiller/publication/9049873/figure/fig1/AS:277638124982272@1443205495453/Fig-1-Levelt%27s-model-of-serial-processing-in-speech-production-The-two-gray-boxes.png.file&size=auto 95%
 
 +++
 
