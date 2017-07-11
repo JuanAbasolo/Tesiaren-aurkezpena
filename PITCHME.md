@@ -58,7 +58,7 @@
 
 # Continuuma
 
-Zailtasunak = [zalantzak ←→ zuzenketak <-> erroreak]
+Zailtasunak = [zalantzak ←→ zuzenketak ←→ erroreak]
 
 ---
 
@@ -85,3 +85,8 @@ Note: gero azalduko da metodologian
 +++
 
 Curriculuma + euskalduntze prozesua...
+|Curriculuma|Euskalduntzea|
+|-----|----|
+|Diseinua|Gauzapena|
+|Estudiatzea|Ikastea|
+|Zer jakin|Zertan jakin|
