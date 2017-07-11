@@ -13,10 +13,6 @@
 
 ---
 
-# Zailtasunak adizki jokatuaren inguruan B2-C1 ibilbidean
-
----
-
 * <span style="color:#9B1818">Marko **teorikoa**</span>!
 * Helburuak
 * Hipotesiak
@@ -25,6 +21,16 @@
 * Emaitzak
 * Azalpenak eta ondorioak
 * Gero zer
+
+---
+
+# <span style="color:#9B1818">Zailtasunak</span> adizki jokatuaren inguruan B2-C1 ibilbidean
+
++++
+
+## Zailtasunak = zalantzak + zuzenketak + erroreak
+
+Continuuma
 
 ---
 
