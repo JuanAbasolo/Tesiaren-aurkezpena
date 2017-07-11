@@ -58,7 +58,7 @@
 
 # Continuuma
 
-Zailtasunak = [zalantzak :left_right_arrow: zuzenketak <-> erroreak]
+Zailtasunak = [zalantzak ←→ zuzenketak <-> erroreak]
 
 ---
 
