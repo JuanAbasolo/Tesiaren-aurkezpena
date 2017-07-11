@@ -17,26 +17,16 @@
 
 ---
 
-<span style="font-family: Helvetica Neue; font-weight: bold; color:#ffffff">Marko **teorikoa**</span>!
+* <span style="color:#ffffff">Marko **teorikoa**</span>!
+* Helburuak
+* Hipotesiak
+* Diseinua
+* Metodologia
+* Emaitzak
+* Azalpenak eta ondorioak
+* Gero zer
 
-
-Helburuak
-
-Hipotesiak
-
-Diseinua
-
-Metodologia
-
-Emaitzak
-
-Azalpenak eta ondorioak
-
-Gero zer
-
-
-___
-
+---
 
 Hello!
 
