@@ -1,5 +1,7 @@
 # Zailtasunak adizki jokatuaren inguruan B2-C1 ibilbidean
 
+Doktoregaia: Juan Abasolo
+
 ---
 
 ##### Marko teorikoa
