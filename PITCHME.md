@@ -1,6 +1,7 @@
 # Zailtasunak adizki jokatuaren inguruan B2-C1 ibilbidean
 
-Doktoregaia:<span style="color:#9B1818">Juan **Abasolo**</span>       Zuzendariak: Andoni **Barreña** eta Laura **Mintegi**
+Doktoregaia:<span style="color:#9B1818">Juan **Abasolo**</span>       
+Zuzendariak: Andoni **Barreña** eta Laura **Mintegi**
 
 ---
 
