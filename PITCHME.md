@@ -2,18 +2,18 @@
 
 ---
 
-* Marko teorikoa
-* Helburuak
-* Hipotesiak
-* Diseinua
-* Metodologia
-* Emaitzak
-* Azalpenak eta ondorioak
-* Gero zer
+##### Marko teorikoa
+##### Helburuak
+##### Hipotesiak
+##### Diseinua
+##### Metodologia
+##### Emaitzak
+##### Azalpenak eta ondorioak
+##### Gero zer
 
 ---
 
-* <span style="color:#9B1818">Marko **teorikoa**</span>!
+* <span style="color:#9B1818">Marko **teorikoa**</span>
 * Helburuak
 * Hipotesiak
 * Diseinua
@@ -21,6 +21,18 @@
 * Emaitzak
 * Azalpenak eta ondorioak
 * Gero zer
+
++++
+
+
+##### <span style="color:#9B1818">Marko **teorikoa**</span>
+##### Helburuak
+##### Hipotesiak
+##### Diseinua
+##### Metodologia
+##### Emaitzak
+##### Azalpenak eta ondorioak
+##### Gero zer
 
 ---
 
@@ -28,24 +40,50 @@
 
 +++
 
-## Zailtasunak = zalantzak + zuzenketak + erroreak
+### Zailtasunak = zalantzak + zuzenketak + erroreak
 
-Continuuma
 
----
-
-Hello!
 
 +++
 
-Kaxio!
-
----
-
-Goodbye!
+### Zailtasunak = <span style="color:#9B1818">zalantzak</span> + zuzenketak + erroreak
 
 +++
 
-Agur!
+### Zailtasunak = zalantzak + <span style="color:#9B1818">zuzenketak</span> + erroreak
+
++++
+
+### Zailtasunak = zalantzak + zuzenketak + <span style="color:#9B1818">erroreak</span>
+
++++
+
+# Continuuma
+
+Zailtasunak = [zalantzak -> zuzenketak -> erroreak]
 
 ---
+
+# Zailtasunak <span style="color:#9B1818">adizki jokatua</span>ren inguruan B2-C1 ibilbidean
+
++++
+
+Adizki jokatuaren elementuak
+
+---
+
+# Zailtasunak adizki jokatua<span style="color:#9B1818">ren inguruan</span> B2-C1 ibilbidean
+
++++
+
+Levelt-en ereduaren barruko distantziak
+
+Note: gero azalduko da metodologian
+
+---
+
+# Zailtasunak adizki jokatuaren inguruan <span style="color:#9B1818">B2-C1 ibilbidean</span>
+
++++
+
+Curriculuma + euskalduntze prozesua...
