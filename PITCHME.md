@@ -17,7 +17,7 @@
 
 ---
 
-* <span style="color:#ffffff">Marko **teorikoa**</span>!
+* <span style="color:#9B1818">Marko **teorikoa**</span>!
 * Helburuak
 * Hipotesiak
 * Diseinua
