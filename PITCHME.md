@@ -85,6 +85,7 @@ Note: gero azalduko da metodologian
 +++
 
 Curriculuma + euskalduntze prozesua...
+
 |Curriculuma|Euskalduntzea|
 |-----|----|
 |Diseinua|Gauzapena|
