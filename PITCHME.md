@@ -10,61 +10,8 @@ note:
 Eskerrak
 * Tribunala
 * Laguntzera etorritakoei
-* Zergatik egin: Euskaraz ikasteko, euskarazko elementuak erabili behar dira... nola ikasten da euskaraz egiten.
-
----
-
-##### Marko teorikoa
-##### Hipotesiak
-##### Marko metodologikoa
-##### Azterketa
-##### Interpretazioa
-##### Ondorioak
-
----
-
-##### <span style="color:#9B1818">Marko teorikoa</span>
-##### Hipotesiak
-##### Marko metodologikoa
-##### Azterketa
-##### Interpretazioa
-##### Ondorioak
-
----
-
-## <span style="color:#9B1818">Zailtasunak</span> adizki jokatuaren inguruan B2-C1 ibilbidean
-
-+++
-
-### Zailtasunak = zalantzak + zuzenketak + erroreak
-
-+++?image=Levelten_eredua_Nik-garden.png&size=auto 95%
-
-+++
-
-### Zailtasunak = <span style="color:#9B1818">zalantzak</span> + zuzenketak + erroreak
-
-<img src="HautemateBegiztak01Barnekoa.png" width="500">
-
-+++
-
-### Zailtasunak = zalantzak + <span style="color:#9B1818">zuzenketak</span> + erroreak
 
 
-<img src="HautemateBegiztak01CKanpokoa.png" width="500">
-
-+++
-
-### Zailtasunak = zalantzak + zuzenketak + <span style="color:#9B1818">erroreak</span>
-
-
-<img src="HautemateBegiztak01Erroreak.png" width="500">
-
-+++
-## Zailtasunen
-# <span style="color:#9B1818">Continuuma</span>
-
-### zalantzak ←→ zuzenketak ←→ erroreak
 
 ---
 
@@ -135,27 +82,79 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 
 ---
 
-
+##### Marko teorikoa
+##### Hipotesiak
+##### Marko metodologikoa
+##### Azterketa
+##### Interpretazioa
+##### Ondorioak
 
 ---
 
-## Marko teorikoa
+##### <span style="color:#9B1818">Marko teorikoa</span>
+##### Hipotesiak
+##### Marko metodologikoa
+##### Azterketa
+##### Interpretazioa
+##### Ondorioak
 
 ---
 
 ### Heldu euskaldunak
 
-Euskararen herrian erdaldunak nagusi... edo.
-
-Euskaldun berriak dira gazte gehienak eta 
+HABEko datuak eta inkesta soziolinguistikoak
 
 ---
 
 ### Adizki jokatua
 
+Nik zuri liburuak gaur _eman**go nizkizuke**_
+
 ---
 
-### Zailtasunak
+## <span style="color:#9B1818">Zailtasunak</span> adizki jokatuaren inguruan B2-C1 ibilbidean
+
++++
+
+### Zailtasunak = zalantzak + zuzenketak + erroreak
+
++++?image=Levelten_eredua_Nik-garden.png&size=auto 95%
+
++++
+
+### Zailtasunak = <span style="color:#9B1818">zalantzak</span> + zuzenketak + erroreak
+
+<img src="HautemateBegiztak01Barnekoa.png" width="500">
+
++++
+
+### Zailtasunak = zalantzak + <span style="color:#9B1818">zuzenketak</span> + erroreak
+
+
+<img src="HautemateBegiztak01CKanpokoa.png" width="500">
+
++++
+
+### Zailtasunak = zalantzak + zuzenketak + <span style="color:#9B1818">erroreak</span>
+
+
+<img src="HautemateBegiztak01Erroreak.png" width="500">
+
++++
+
+## Zailtasunen
+# <span style="color:#9B1818">Continuuma</span>
+
+### zalantzak ←→ zuzenketak ←→ erroreak
+
+---
+
+##### Marko teorikoa
+##### <span style="color:#9B1818">Hipotesiak</span>
+##### Marko metodologikoa
+##### Azterketa
+##### Interpretazioa
+##### Ondorioak
 
 ---
 
@@ -185,11 +184,19 @@ note:
 
 ##### Aditz nagusian eta laguntzailean
 
+---
+
 > H2 : Adizki laguntzailearen inguruan zailtasun adierazle gehiago egongo dira aditz nagusiaren inguruan baino.
+
+---
 
 > H3 : Zailtasun adierazleen banaketa eta adizki jokatuaren aurreko etenarena erlazionatuta egongo dira.
 
+---
+
 > H4 : Nahiz eta arauen araberako adizkiak batzuetan sortu ez, horiek ez dira erroreak izango, huts egiteak baino; sortu behar zituzkeen adizki horiek arauen arabera ere aurkituko baititugu B2 mailatik gora dabilen ikastunaren ekoizpenean.
+
+---
 
 > H5 : Bada ezaugarri morfologiko, semantiko eta pragmatiko multzo bat zeinetan adizki jokatuaren inguruko zailtasunek banaketa bereizia duten.
 
@@ -204,7 +211,12 @@ note:
 
 ---
 
-## Marko metodologikoa
+##### Marko teorikoa
+##### Hipotesiak
+##### <span style="color:#9B1818">Marko metodologikoa</span>
+##### Azterketa
+##### Interpretazioa
+##### Ondorioak
 
 ---
 
@@ -222,9 +234,15 @@ Elementuak bakarka aztertzen ditu. Horretarako, delako ezaugarria neurtzen da al
 
 ### Datuak
 
+Barnetegian
+
 Ikastun bat 
 
 13 monologo
+
+330 egunean zehar
+
+1000 klase orduan
 
 ---
 
@@ -234,11 +252,19 @@ Praat
 
 Etiketak
 
+Banaketa kokatu
+
 Banaketaren analisia
 
 ---
 
-## Azterketa
+
+##### Marko teorikoa
+##### Hipotesiak
+##### Marko metodologikoa
+##### <span style="color:#9B1818">Azterketa</span>
+##### Interpretazioa
+##### Ondorioak
 
 ---
 
@@ -262,10 +288,29 @@ Banaketaren analisia
 
 ---
 
+
+##### Marko teorikoa
+##### Hipotesiak
+##### Marko metodologikoa
+##### Azterketa
+##### <span style="color:#9B1818">Interpretazioa</span>
+##### Ondorioak
+
+---
+
 ## Interpretazioa
 
 note:
 
+
+---
+
+##### Marko teorikoa
+##### Hipotesiak
+##### Marko metodologikoa
+##### Azterketa
+##### Interpretazioa
+##### <span style="color:#9B1818">Ondorioak</span>
 
 ---
 
@@ -290,11 +335,15 @@ note:
 
 ## Proposamenak
 
+---
+
 ### Didaktika
 
 Hizkuntzaren __ezaugarri tenporalak__ era metodiko eta zehaztuan sartu
 
 Zailtasunak era kontziente eta sistematikoan identifikatu (gaitasun estrategikoa)
+
+---
 
 ### Ikerketa
 
