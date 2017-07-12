@@ -42,7 +42,7 @@ Eskerrak
 
 ### Zailtasunak = zalantzak + zuzenketak + erroreak
 
-+++?image=Levelten eredua Nik-garden.png&size=auto 95%
++++?image=Levelten_eredua_Nik-garden.png&size=auto 95%
 
 +++
 
