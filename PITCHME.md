@@ -353,7 +353,7 @@ __Sakonago__
 
 __Gehiago__
 
-__Beste elementuak__: prosodiaren lanketa.
+__Beste elementu batzuk__: prosodiaren lanketa.
 
 ---
 
