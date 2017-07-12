@@ -15,24 +15,20 @@ Eskerrak
 ---
 
 ##### Marko teorikoa
-##### Helburuak
 ##### Hipotesiak
-##### Diseinua
-##### Metodologia
-##### Emaitzak
-##### Azalpenak eta ondorioak
-##### Gero zer
+##### Marko metodologikoa
+##### Azterketa
+##### Interpretazioa
+##### Ondorioak
 
 ---
 
 ##### <span style="color:#9B1818">Marko teorikoa</span>
-##### Helburuak
 ##### Hipotesiak
-##### Diseinua
-##### Metodologia
-##### Emaitzak
-##### Azalpenak eta ondorioak
-##### Gero zer
+##### Marko metodologikoa
+##### Azterketa
+##### Interpretazioa
+##### Ondorioak
 
 ---
 
