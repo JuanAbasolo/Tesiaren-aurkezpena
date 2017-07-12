@@ -54,7 +54,7 @@ Eskerrak
 
 ### Zailtasunak = zalantzak + <span style="color:#9B1818">zuzenketak</span> + erroreak
 
-+++?image=hello-world/HautemateBegiztak01CKanpokoa.png 95%
++++?image=HautemateBegiztak01CKanpokoa.png 95%
 
 +++
 
