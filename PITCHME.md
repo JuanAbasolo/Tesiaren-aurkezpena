@@ -48,7 +48,7 @@ Eskerrak
 
 ### Zailtasunak = <span style="color:#9B1818">zalantzak</span> + zuzenketak + erroreak
 
-+++?image=HautemateBegiztak01.png&size=auto  95%
++++?image=HautemateBegiztak01Barnekoa.png&size=auto  95%
 
 +++
 
@@ -68,7 +68,7 @@ Eskerrak
 
 ---
 
-# Zailtasunak <span style="color:#9B1818">adizki jokatua</span>ren inguruan B2-C1 ibilbidean
+## Zailtasunak <span style="color:#9B1818">adizki jokatua</span>ren inguruan B2-C1 ibilbidean
 
 +++
 
@@ -76,7 +76,7 @@ Adizki jokatuaren elementuak
 
 ---
 
-# Zailtasunak adizki jokatua<span style="color:#9B1818">ren inguruan</span> B2-C1 ibilbidean
+## Zailtasunak adizki jokatua<span style="color:#9B1818">ren inguruan</span> B2-C1 ibilbidean
 
 +++
 
@@ -86,7 +86,7 @@ Note: gero azalduko da metodologian
 
 ---
 
-# Zailtasunak adizki jokatuaren inguruan <span style="color:#9B1818">B2-C1 ibilbidean</span>
+## Zailtasunak adizki jokatuaren inguruan <span style="color:#9B1818">B2-C1 ibilbidean</span>
 
 +++
 
