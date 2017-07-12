@@ -4,52 +4,6 @@
 
 ---
 
-Gramatika gaitasuna, *gramatikamena*
-
-note:
-Eskerrak
-* Tribunala
-* Laguntzera etorritakoei
-
-
-
----
-
-## Zailtasunak <span style="color:#9B1818">adizki jokatua</span>ren inguruan B2-C1 ibilbidean
-
-+++
-
-Adizki jokatuaren elementuak
-
----
-
-## Zailtasunak adizki jokatua<span style="color:#9B1818">ren inguruan</span> B2-C1 ibilbidean
-
-+++
-
-Levelt-en ereduaren barruko distantziak
-
-Note: gero azalduko da metodologian
-
----
-
-## Zailtasunak adizki jokatuaren inguruan <span style="color:#9B1818">B2-C1 ibilbidean</span>
-
-+++
-
-Curriculuma + euskalduntze prozesua...
-
-|Curriculuma|Euskalduntzea|
-|-----|----|
-|Diseinua|Gauzapena|
-|Estudiatzea|Ikastea|
-|Zer jakin|Zertan jakin|
-
-
-
----
-
-
 ## Zailtasunak adizki jokatuaren inguruan B2-C1 ibilbidean
 
 ### Bilakaera kasu baten analisia
@@ -62,23 +16,24 @@ Eskerrak tribunalari etorri izanagatik.
 ### Hasierarako ibilbidea
 
 note:
-**3'**
-Euskara irakasle hasi hile bi eta erdiko barnetegi baten ondoren.
+**3'**  
+
+Euskara irakasle hasi hile bi eta erdiko barnetegi baten ondoren.  
 Ikastea eta irakastearen arteko sinbiosia.
 
-euskara-**ikastun - irakasle**
+euskara-**ikastun - irakasle**  
 (intuizioa) Euskaraz pentsatzeko euskarazko elementuak  
 Euskaraz berbetan nola ikasten den jakin nahi.
 
 Euskara **irakasle - ikertzaile amateurra**  
 Adizkiak erabiltzen nola ikasten den jakin nahi izatera.
 
-**Irakasle eta ikertzaile** kontratua
+**Irakasle eta ikertzaile** kontratua  
 Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzten horixe ikasten? Eta zer ikasten da? 
 
 ---
 
-# (Zailtasunak + adizkiak) x gaitzea
+## (Zailtasunak + adizkiak) x gaitzea
 
 ---
 
@@ -100,13 +55,32 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 
 ---
 
+## Zailtasunak adizki jokatuaren inguruan <span style="color:#9B1818">B2-C1 ibilbidean</span>
+
 ### Heldu euskaldunak
 
 HABEko datuak eta inkesta soziolinguistikoak
 
+
++++
+
+Curriculuma + euskalduntze prozesua...
+
+|Curriculuma|Euskalduntzea|
+|-----|----|
+|Diseinua|Gauzapena|
+|Estudiatzea|Ikastea|
+|Zer jakin|Zertan jakin|
+
 ---
 
+## Zailtasunak <span style="color:#9B1818">adizki jokatua</span>ren inguruan B2-C1 ibilbidean
+
++++
+
 ### Adizki jokatua
+
+Adizki jokatuaren elementuak
 
 Nik zuri liburuak gaur _eman**go nizkizuke**_
 
@@ -146,6 +120,16 @@ Nik zuri liburuak gaur _eman**go nizkizuke**_
 # <span style="color:#9B1818">Continuuma</span>
 
 ### zalantzak ←→ zuzenketak ←→ erroreak
+
+---
+
+## Zailtasunak adizki jokatua<span style="color:#9B1818">ren inguruan</span> B2-C1 ibilbidean
+
++++
+
+Levelt-en ereduaren barruko distantziak
+
+Note: gero azalduko da metodologian
 
 ---
 
