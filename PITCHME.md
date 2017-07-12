@@ -61,9 +61,12 @@ Eskerrak
 
 ### Zailtasunak = zalantzak + zuzenketak + <span style="color:#9B1818">erroreak</span>
 
+
+<img src="HautemateBegiztak01Erroreak.png" width="500">
+
 +++
 ## Zailtasunen
-# Continuuma
+# <span style="color:#9B1818">Continuuma</span>
 
 ### zalantzak ←→ zuzenketak ←→ erroreak
 
