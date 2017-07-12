@@ -1,14 +1,16 @@
-# Zailtasunak adizki jokatuaren inguruan B2-C1 ibilbidean
-
-## Bilakaera kasu baten analisia
-
----
 ## Zailtasunak adizki jokatuaren inguruan B2-C1 ibilbidean
 
 ### Bilakaera kasu baten analisia
 
-#### Doktoregaia:<span style="color:#9B1818">Juan Abasolo</span>       
-#### Zuzendariak: Andoni Barreña eta Laura Mintegi
+---
+
+Gramatika gaitasuna, *gramatikamena*
+
+note:
+Eskerrak
+* Tribunala
+* Laguntzera etorritakoei
+* Zergatik egin: Euskaraz ikasteko, euskarazko elementuak erabili behar dira... nola ikasten da euskaraz egiten.
 
 ---
 
@@ -40,25 +42,29 @@
 
 ### Zailtasunak = zalantzak + zuzenketak + erroreak
 
-+++?image=https://www.researchgate.net/profile/Niels_Schiller/publication/9049873/figure/fig1/AS:277638124982272@1443205495453/Fig-1-Levelt%27s-model-of-serial-processing-in-speech-production-The-two-gray-boxes.png.file&size=auto 95%
++++?image=/hello-world/Levelten eredua Nik-garden.png 95%
 
 +++
 
 ### Zailtasunak = <span style="color:#9B1818">zalantzak</span> + zuzenketak + erroreak
 
++++?image=/hello-world/HautemateBegiztak01Barnekoa.png 95%
+
 +++
 
 ### Zailtasunak = zalantzak + <span style="color:#9B1818">zuzenketak</span> + erroreak
+
++++?image=/hello-world/HautemateBegiztak01CKanpokoa.png 95%
 
 +++
 
 ### Zailtasunak = zalantzak + zuzenketak + <span style="color:#9B1818">erroreak</span>
 
 +++
-
+## Zailtasunen
 # Continuuma
 
-Zailtasunak = [zalantzak ←→ zuzenketak ←→ erroreak]
+### zalantzak ←→ zuzenketak ←→ erroreak
 
 ---
 
