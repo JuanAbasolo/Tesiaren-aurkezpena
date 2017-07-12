@@ -36,25 +36,25 @@ Eskerrak
 
 ---
 
-# <span style="color:#9B1818">Zailtasunak</span> adizki jokatuaren inguruan B2-C1 ibilbidean
+## <span style="color:#9B1818">Zailtasunak</span> adizki jokatuaren inguruan B2-C1 ibilbidean
 
 +++
 
 ### Zailtasunak = zalantzak + zuzenketak + erroreak
 
-+++?image=hello-world/Levelten eredua Nik-garden.png.file&size=auto 95%
++++?image=hello-world/Levelten eredua Nik-garden.png&size=auto 95%
 
 +++
 
 ### Zailtasunak = <span style="color:#9B1818">zalantzak</span> + zuzenketak + erroreak
 
-+++?image=hello-world/HautemateBegiztak01Barnekoa.png 95%
++++?image=hello-world/HautemateBegiztak01Barnekoa.png&size=auto  95%
 
 +++
 
 ### Zailtasunak = zalantzak + <span style="color:#9B1818">zuzenketak</span> + erroreak
 
-+++?image=HautemateBegiztak01CKanpokoa.png 95%
++++?image=HautemateBegiztak01CKanpokoa.png&size=auto  95%
 
 +++
 
