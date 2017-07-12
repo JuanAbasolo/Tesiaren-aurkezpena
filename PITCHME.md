@@ -98,7 +98,10 @@ Curriculuma + euskalduntze prozesua...
 |Estudiatzea|Ikastea|
 |Zer jakin|Zertan jakin|
 
-***
+
+
+---
+
 
 ## Zailtasunak adizki jokatuaren inguruan B2-C1 ibilbidean
 
