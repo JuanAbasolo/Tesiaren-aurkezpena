@@ -42,13 +42,13 @@ Eskerrak
 
 ### Zailtasunak = zalantzak + zuzenketak + erroreak
 
-+++?image= hello-world/Levelten eredua Nik-garden.png&size=auto 95%
++++?image=Levelten eredua Nik-garden.png&size=auto 95%
 
 +++
 
 ### Zailtasunak = <span style="color:#9B1818">zalantzak</span> + zuzenketak + erroreak
 
-+++?image= hello-world/HautemateBegiztak01.png&size=auto  95%
+![](HautemateBegiztak01.png&size=auto  95%)
 
 +++
 
