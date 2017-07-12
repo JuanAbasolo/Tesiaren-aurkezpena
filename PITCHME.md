@@ -48,7 +48,7 @@ Eskerrak
 
 ### Zailtasunak = <span style="color:#9B1818">zalantzak</span> + zuzenketak + erroreak
 
-<img src="HautemateBegiztak01Barnekoa.png" width="400">
+<img src="HautemateBegiztak01Barnekoa.png" width="500">
 
 +++
 
