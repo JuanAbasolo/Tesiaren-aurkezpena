@@ -2,12 +2,6 @@
 
 ### Bilakaera kasu baten analisia
 
----
-
-## Zailtasunak adizki jokatuaren inguruan B2-C1 ibilbidean
-
-### Bilakaera kasu baten analisia
-
 note:
 Eskerrak tribunalari etorri izanagatik.
 
