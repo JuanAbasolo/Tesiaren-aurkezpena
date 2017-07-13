@@ -434,7 +434,7 @@ Adizkiak ekoiztea eta erabiltzea zaila da ikasle honentzat, behintzat.
 
 +++
 
-> (*nik~pro~*) kirol gehiago egiten egiten dut
+> (*nik<sub>pro</sub>*) kirol gehiago egiten egiten dut
 
 note:
 *kirol gehiago* eta *egiten* erraz. Ez dakigu, baina, zer dagoen horren atzean.
@@ -487,12 +487,17 @@ Hipotesien berrikuspena
 
 +++
 
-H1 : bete da
-H2 : bete da
-H3 : bete da
-H4 : bete dela ematen du
-H5 : bete da
-H6 : ez da bete
+**H1:** bete da
+
+**H2:** bete da
+
+**H3:** bete da
+
+**H4:** bete dela ematen du
+
+**H5:** bete da
+
+**H6:** ez da bete
 
 ---
 
@@ -500,7 +505,7 @@ H6 : ez da bete
 
 | SBD | Ing. | Transk. | Met. | Tamaina |
 |:----:|:----:|:---:|:---:|:---:|
-| A aldia| Formala| Triangulaziorik ez | Doitzeko | Gehitzeko |
+| A aldia| Formala| Bakarra| Doitzeko | Gehitzeko |
 
 
 note:
