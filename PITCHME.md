@@ -147,7 +147,7 @@ Note: gero azalduko da metodologian
 note:
 **10'**
 
----
++++
 
 #### Hipotesi orokorra
 
@@ -157,34 +157,28 @@ note:
 
 #### Hipotesi zehatzak
 
----
++++
 
 
 ##### Ikuspegi orokorretik hartuta
 
 > H1 : Zailtasun adierazleen banaketa aldatuko da adizki jokatua, adizki nagusia, aditz argumentu ala beste ezer izan.
 
----
++++
 
 ##### Aditz nagusian eta laguntzailean
 
----
++++
 
 > H2 : Adizki laguntzailearen inguruan zailtasun adierazle gehiago egongo dira aditz nagusiaren inguruan baino.
 
----
-
 > H3 : Zailtasun adierazleen banaketa eta adizki jokatuaren aurreko etenarena erlazionatuta egongo dira.
-
----
 
 > H4 : Nahiz eta arauen araberako adizkiak batzuetan sortu ez, horiek ez dira erroreak izango, huts egiteak baino; sortu behar zituzkeen adizki horiek arauen arabera ere aurkituko baititugu B2 mailatik gora dabilen ikastunaren ekoizpenean.
 
----
-
 > H5 : Bada ezaugarri morfologiko, semantiko eta pragmatiko multzo bat zeinetan adizki jokatuaren inguruko zailtasunek banaketa bereizia duten.
 
----
++++
 
 ##### Bilakaera
 
@@ -252,26 +246,44 @@ Banaketaren analisia
 
 ---
 
-### Zailtasunen distribuzioa korpuseko elementuetan zehar
+### Zailtasunen distribuzioa corpuseko elementuetan zehar
+
++++
+
+IRUDIA
 
 ---
 
 ### Zailtasunak adizkiaren inguruan
 
++++
+
+IRUDIA
+
 ---
 
 ### Erroreak errakuntza
++++
+
+IRUDIA
 
 ---
 
 ### Adizki jokatuen ezaugarriak eta zailtasunak
 
++++
+
+IRUDIA
+
 ---
 
 ### Zailtasunen agerreraren bilakaera
 
----
++++
 
+IRUDIA
+
+---
 
 ##### Marko teorikoa
 ##### Hipotesiak
@@ -285,7 +297,6 @@ Banaketaren analisia
 ## Interpretazioa
 
 note:
-
 
 ---
 
@@ -319,7 +330,7 @@ note:
 
 ## Proposamenak
 
----
++++
 
 ### Didaktika
 
@@ -327,7 +338,7 @@ Hizkuntzaren __ezaugarri tenporalak__ era metodiko eta zehaztuan sartu
 
 Zailtasunak era kontziente eta sistematikoan identifikatu (gaitasun estrategikoa)
 
----
++++
 
 ### Ikerketa
 
