@@ -71,7 +71,7 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 
 +++
 
-# Curriculum idatziak eta euskalduntze prozesua
+### Curriculum idatziak eta euskalduntze prozesua
 
 |Curriculuma|Euskalduntzea|
 |:---:|:---:|
@@ -79,8 +79,7 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 |Estudiatzea|Ikastea|
 |Zer jakin|Zertan jakin|
 
-+++?image=irudiak/BaVsHEOK.png&size=auto 95%
-
++++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/BaVsHEOC.png&size=auto 95%
 
 
 ---
