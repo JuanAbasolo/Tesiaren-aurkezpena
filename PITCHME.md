@@ -51,20 +51,37 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 
 ## Zailtasunak adizki jokatuaren inguruan <span style="color:#9B1818">B2-C1 ibilbidean</span>
 
-### Heldu euskaldunak
-
-HABEko datuak eta inkesta soziolinguistikoak
-
++++?image=irudiak/A01-EHnEuskara.png&size=auto 95%
 
 +++
 
-Curriculuma + euskalduntze prozesua...
+### Heldu euskaldunduak
+
+| 1991 | 2014 |
+|---|---|
+| 16-24 | 35-49 |
+| % 26.4 | % 29.3 |
+|| ~ % 12.9 ?|
+
++++
+
+**HABE 2014**
+* B2 1350 gai
+* C1 720 gai
+
++++
+
+# Curriculum idatziak eta euskalduntze prozesua
 
 |Curriculuma|Euskalduntzea|
-|-----|----|
+|:---:|:---:|
 |Diseinua|Gauzapena|
 |Estudiatzea|Ikastea|
 |Zer jakin|Zertan jakin|
+
++++?image=irudiak/BaVsHEOK.png&size=auto 95%
+
+
 
 ---
 
@@ -162,13 +179,17 @@ note:
 
 ##### Aditz nagusian eta laguntzailean
 
-+++
-
 > H2 : Adizki laguntzailearen inguruan zailtasun adierazle gehiago egongo dira aditz nagusiaren inguruan baino.
+
++++
 
 > H3 : Zailtasun adierazleen banaketa eta adizki jokatuaren aurreko etenarena erlazionatuta egongo dira.
 
++++
+
 > H4 : Nahiz eta arauen araberako adizkiak batzuetan sortu ez, horiek ez dira erroreak izango, huts egiteak baino; sortu behar zituzkeen adizki horiek arauen arabera ere aurkituko baititugu B2 mailatik gora dabilen ikastunaren ekoizpenean.
+
++++
 
 > H5 : Bada ezaugarri morfologiko, semantiko eta pragmatiko multzo bat zeinetan adizki jokatuaren inguruko zailtasunek banaketa bereizia duten.
 
