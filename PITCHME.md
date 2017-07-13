@@ -394,7 +394,7 @@ Etiketa sintaktikoak-eta
 
 ### Zailtasunak adizkiaren inguruan
 
-+++?image=irudiak/LaburBW-Zailtasun adierazleen distribuzioa eta adizki jokatua01.png&size=auto 90%
++++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/LaburBW-Zailtasun%20adierazleen%20distribuzioa%20eta%20adizki%20jokatua01.png&size=auto 90%
 
 ---
 
