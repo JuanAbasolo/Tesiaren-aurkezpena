@@ -51,7 +51,7 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 
 ## Zailtasunak adizki jokatuaren inguruan <span style="color:#9B1818">B2-C1 ibilbidean</span>
 
-+++?image=irudiak/A01-EHnEuskara.png&size=auto 95%
++++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/A01-EHnEuskara.png&size=auto 95%
 
 +++
 
@@ -79,7 +79,7 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 |Estudiatzea|Ikastea|
 |Zer jakin|Zertan jakin|
 
-+++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/BaVsHEOC.png&size=auto 95%
++++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/BaVsHEOC.png&size=auto 70%
 
 
 ---
