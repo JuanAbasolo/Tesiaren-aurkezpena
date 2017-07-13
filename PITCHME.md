@@ -12,22 +12,28 @@ Eskerrak tribunalari etorri izanagatik.
 note:
 **3'**  
 
-Euskara irakasle hasi hile bi eta erdiko barnetegi baten ondoren.  
-Ikastea eta irakastearen arteko sinbiosia.
+Hile bi eta erdiko barnetegi baten ondoren, euskara irakasle hasi.
+Ikastea eta irakastearen arteko **sinbiosia**.
 
-euskara-**ikastun - irakasle**  
+Euskara-**ikastun - irakasle**  
 (intuizioa) Euskaraz pentsatzeko euskarazko elementuak  
 Euskaraz berbetan nola ikasten den jakin nahi.
 
 Euskara **irakasle - ikertzaile amateurra**  
 Adizkiak erabiltzen nola ikasten den jakin nahi izatera.
 
-**Irakasle eta ikertzaile** kontratua  
+**Irakasle eta ikertzaile** kontratua. Profesional egin nahirik.  
 Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzten horixe ikasten? Eta zer ikasten da? 
 
 ---
 
-## (Zailtasunak + adizkiak) x gaitzea
+## (Zailtasunak + adizkiak) x ikastea
+
+note:
+Abiapuntua hori izan zen.
+
+Helmuga IKERKETA HAU. 
+Euskalduntzen ari den heldu batek aditzak nola jokatzen dituen. Eta gaitasun komunikatiboan aurrera egiteak erabilera horretan zer eragiten duen aztertzen duena.
 
 ---
 
@@ -37,6 +43,11 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 ##### Azterketa
 ##### Interpretazioa
 ##### Ondorioak
+
+note:
+Txosten idatziaren egiturarekin bat eginda, azalduko dut.
+
+oinarri teorikoak -> hipotesiak -> marko metodologikoa ...
 
 ---
 
@@ -49,31 +60,32 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 
 ---
 
-## Zailtasunak adizki jokatuaren inguruan <span style="color:#FF0000">B2-C1 ibilbidean</span>
+## <span style="color:#FF0000">Zailtasunak</span> <span style="color:#0000FF">adizki jokatua</span><span style="color:#FF0000">ren inguruan</span> <span style="color:#04B404">B2-C1 ibilbidean</span>
 
 +++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/A01-EHnEuskara.png&size=auto 95%
 
-+++
-
-### Heldu euskaldunduak
-
-| 1991 | 2014 |
-|---|---|
-| 16-24 | 35-49 |
-| % 26.4 | % 29.3 |
-|| ~ % 12.9 ?|
 
 +++
 
-**HABE 2014**
-* B2 1350 gai
-* C1 720 gai
+### <span style="color:#04B404">Heldu euskaldunduak</span>
+
+|urtea| 1991 | 2014 |
+|:-:|---:|---:|
+|adin tartea| 16-24 | 35-49 |
+|euskaldunak| % 26.4 | % 29.3 |
+|heldu euskaldunduak|| ~ % 12.9 ?|
+
+</br>
+
+**HABEko azterketak 2014**
+* B2 (erabiltzaile independentea) 1350 gai
+* C1 (erabiltzaile gaitua) 720 gai
 
 +++
 
-### Curriculum idatziak eta euskalduntze prozesua
+### <span style="color:#04B404">Curriculum idatziak eta euskalduntze prozesua</span>
 
-|Curriculuma|Euskalduntzea|
+|HEOC|Euskalduntzea|
 |:---:|:---:|
 |Diseinua|Gauzapena|
 |Estudiatzea|Ikastea|
@@ -81,42 +93,56 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 
 +++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/BaVsHEOC.png&size=auto 70%
 
-
----
-## Zailtasunak <span style="color:#FF0000">adizki jokatua</span>ren inguruan B2-C1 ibilbidean
-
-+++
-
-### Euskarazko adizki jokatua
-
-Aditz erroa
-
-Aspektua
-
-**Pertsona**
-
-**Numeroa**
-
-**Modua**
-
-**Tenpusa**
-
-+++
-
-
-### Nik zuri liburuak gaur _eman**go n-i-zki-zu-ke**_
-
-### Lanean _**d-ihardu-t**_ 
+note:
+HEOK eta HEOC-en egitura oso antzerakoak. 
 
 ---
 
-## <span style="color:#FF0000">Zailtasunak</span> adizki jokatuaren inguruan B2-C1 ibilbidean
+### <span style="color:#0000FF">Euskarazko adizki</span> jokatua nola ikasten da erabiltzen?
 
-+++
+<span style="color:#B45F04">Aditz erroa</span>
 
-### Zailtasunak = zalantzak + zuzenketak + erroreak
+<span style="color:#0000FF">Aspektua</span>
 
-+++?image=Levelten_eredua_Nik-garden.png&size=auto 95%
+<span style="color:#04B404">**Pertsona**</span>
+
+<span style="color:#FF00BF">**Numeroa**</span>
+
+<span style="color:##04B4AE">**Modua**</span>
+
+<span style="color:###FE2E2E">**Tenpusa**</span>
+
+
+
+
+### Nik zuri liburuak gaur _<span style="color:#B45F04">eman</span>**<span style="color:#0000FF">go</span> <span style="color:#04B404">n</span><span style="color:#FF00BF">izki</span><span style="color:#04B404">zu</span><span style="color:##04B4AE">ke</span>**_
+
+### Lanean _**<span style="color:##FE2E2E">d</span><span style="color:#B45F04">ihardu</span><span style="color:#04B404">t</span>**_ 
+
+note:
+Jakin dezakegu nola irakasten den nola erabiltzen den, baina ez dakigu nola ikasten den erabiltzen euskalduntze prozesuan.
+
+Badakigu, Barreñak hasitako bidetik, agerrera mailakatua dutela jabekuntza prozesuan.
+
+Baina, Esnal-ek *(aditzaren arloa dugu euskal hizkuntz
+formen artean egituratuenetarikoa)* horregatik errore gutxi hizkuntz formetan aditz jokatuan.
+
+Perezek: konpletiboa eta pluralarekiko komunztadura.
+
+---
+
+## <span style="color:#FF0000">Zailtasunak = zalantzak + zuzenketak + erroreak</span>
+
+note:
+Levelt'ek proposatutako **hiztunaren ekoizpen eredua**ri de Bot-ek egindako elebidunarentzako oharrak  kontuan izanda Segalowitzek ereduaren proposamen bat egin zuen, etorri-etenen jatorriak identifikatzeko.
+
++++?image=Levelten_eredua_Nik-garden.png&size=auto 90%
+
+note:
+Hiztunak hizketa **monitorizatzen** du. 
+Krashen'ek 1977  
+Leveltek 1989  
+Esatekoa eta esandakoa. Monitorizazio horrek begizta bi ditu, batean esateko eta bestean esandakoa aztertzen da.
 
 +++
 
@@ -140,7 +166,6 @@ Silabatze markatuak
 
 ### Zailtasunak = zalantzak + <span style="color:#FF0000">zuzenketak</span> + erroreak
 
-
 <img src="HautemateBegiztak01CKanpokoa.png" width="500">
 
 +++
@@ -157,7 +182,6 @@ Birfomulazioa = ageriko autozuzenketa
 +++
 
 ### Zailtasunak = zalantzak + zuzenketak + <span style="color:#FF0000">erroreak</span>
-
 
 <img src="HautemateBegiztak01Erroreak.png" width="500">
 
@@ -182,12 +206,14 @@ Sailkapena:
 
 ---
 
-## Zailtasunak adizki jokatua<span style="color:#FF0000">ren inguruan</span> B2-C1 ibilbidean
+## <span style="color:#FF0000">"Inguruan"?</span> 
+
+|horrek |eeeez |zion |esan|
+|--|:--:|:--:|--|
+|-|luz|hurrengoa| |
 
 note: 
 gero azalduko da metodologian
-
-### nik eeeez nion esan
 
 ---
 
@@ -220,62 +246,55 @@ note:
 
 ##### Ikuspegi orokorretik hartuta
 
-> H1 : Zailtasun adierazleen banaketa aldatuko da adizki jokatua, adizki nagusia, aditz argumentu ala beste ezer izan.
+> H1 : **Zailtasun adierazleen banaketa aldatu**ko da adizki jokatua, adizki nagusia, aditz argumentu ala beste ezer izan.
 
 +++
 
 ##### Aditz nagusian eta laguntzailean
 
-> H2 : Adizki laguntzailearen inguruan zailtasun adierazle gehiago egongo dira aditz nagusiaren inguruan baino.
+> H2 : **Adizki laguntzailearen inguruan zailtasun adierazle gehiago** egongo dira **aditz nagusiaren inguruan baino**.
 
 +++
 
 ##### Adizki jokatuaren aurreko etenaz
 
-> H3 : Zailtasun adierazleen banaketa eta adizki jokatuaren aurreko etenarena erlazionatuta egongo dira.
+> H3 : **Zailtasun** adierazleen banaketa eta **adizki jokatuaren aurreko etena**rena erlazionatuta egongo dira.
 
 +++
 
 ##### Erroreak eta errakuntzak
 
-> H4 : Nahiz eta arauen araberako adizkiak batzuetan sortu ez, horiek ez dira erroreak izango, huts egiteak baino; sortu behar zituzkeen adizki horiek arauen arabera ere aurkituko baititugu B2 mailatik gora dabilen ikastunaren ekoizpenean.
+> H4 : Nahiz eta arauen araberako adizkiak batzuetan sortu ez, horiek **ez dira erroreak** izango, huts egiteak baino; sortu behar zituzkeen adizki horiek arauen arabera ere aurkituko baititugu B2 mailatik gora dabilen ikastunaren ekoizpenean.
 
 +++
 
 ##### Ezaugarri zailak
 
-> H5 : Bada ezaugarri morfologiko, semantiko eta pragmatiko multzo bat zeinetan adizki jokatuaren inguruko zailtasunek banaketa bereizia duten.
+> H5 : **Bada ezaugarri** morfologiko, semantiko eta pragmatiko **multzo bat** zeinetan adizki jokatuaren inguruko zailtasunek banaketa bereizia duten.
 
 note:
 
 *Ezaugarri morfologikoak*
 
-H5a : Adizki jokatuaren inguruan zailtasun adierazle gehiago agertuko
-dira adizki markatuekin ez markatuekin baino
+H5a : Adizki jokatuaren inguruan zailtasun adierazle gehiago agertuko dira **adizki markatuekin** ez markatuekin baino.
 
 *Ezaugarri semantikoak*
 
-H5b : Adizki jokatu inergatiboak zailtasun adierazle gehiago izango
-ditu inguruan, ergatiboak eta inakusatiboak baino.
-H5c : Aditz perifrastikoetan zailtasun adierazle gehiago egongo dira
-adizki jokatuaren inguruan, aditz trinkoetan baino.
+H5b : **Adizki jokatu inergatiboak** zailtasun adierazle gehiago izango ditu inguruan, ergatiboak eta inakusatiboak baino.  
+H5c : **Aditz perifrastikoetan zailtasun adierazle gehiago** egongo dira adizki jokatuaren inguruan, aditz trinkoetan baino.
 
 *Ezaugarri pragmatikoak*
 
-H5d : Gertaldi gutxiagoko adizki formek zailtasun adierazle gehiago
-izango dituzte inguruan, gertaldi gehiagokoek baino.
-H5e : Adizki jokatuaren inguruko zailtasunak gutxiago izango dira,
-aditz argumentuak formulatuta daudenean.
-H5f : Aditz argumentuak formulatzen direnetik zenbat eta denbora
-gehiago pasatu, zailtasun adierazle gehiago ikusiko dira adizki
-jokatuaren inguruan
+H5d : **Gertaldi gutxiagoko adizki formek zailtasun adierazle gehiago** izango dituzte inguruan, gertaldi gehiagokoek baino.  
+H5e : Adizki jokatuaren inguruko **zailtasunak gutxiago** izango dira, **aditz argumentuak formulatuta** daudenean.  
+H5f : **Aditz argumentuak formulatzen direnetik** zenbat eta denbora gehiago pasatu, zailtasun adierazle gehiago ikusiko dira adizki jokatuaren inguruan
 
 
 +++
 
 ##### Bilakaera
 
-> H6 : Adizki jokatuaren inguruan zailtasun adierazle gutxiago egongo dira eta urrunago, mailaz igo ahala.
+> H6 : Adizki jokatuaren inguruan **zailtasun adierazle gutxiago** egongo dira **eta urrunago**, mailaz igo ahala.
 
 note:
 **16'**
@@ -289,26 +308,30 @@ note:
 ##### Interpretazioa
 ##### Ondorioak
 
+note:
+Aipatutako hipotesiok egiaztatzeko aukeratutako metodologia eta diseinua
+
 ---
 
 ### Subjektu Bakarreko Diseinua
 
 Neurketa sistematikoa aldi desberdinduetan.
 
+
 note:
-aldagai askea egon ala ez
+EHUn gutxi erabilia, antza, ibilbide handia beste inguru batzuetan.  
+Single Subject Research  
+Single Case Research  Kratochwill + Kazdin (What Works Clearinghouse)  
+Sugai-k hezkuntza elebidunean 1987
+
+Elementuak bakarka aztertzen ditu. Horretarako, delako ezaugarria neurtzen da aldi desberdinetan
+
 
 +++
 
 #### Batezbestekoa - Joera - Aldakortasuna
 
-note:
-EHUn gutxi erabilia, antza, ibilbide handia beste inguru batzuetan.  
-Elementuak bakarka aztertzen ditu. Horretarako, delako ezaugarria neurtzen da aldi desberdinetan
-
-+++
-
-![](https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/04-SSD.png)
+<img src="https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/04-SSD.png"  width="800">
 
 note:
 Gehitze errorea. Lanetik aterata
@@ -318,18 +341,14 @@ Gehitze errorea. Lanetik aterata
 ### Datuak
 
 
-<img src="https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/A-Datuak_Grabaketak_eta_orduak.png" width="800">
+<img src="https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/A-Datuak_Grabaketak_eta_orduak.png" width="700">
 
 Note:
 
-Barnetegian
-
+Barnetegian  
 Ikastun bat 
-
-13 monologo
-
-330 egunean zehar
-
+13 monologo  
+330 egunean zehar  
 1000 klase orduan
 
 ---
@@ -337,6 +356,13 @@ Ikastun bat
 #### Transkripzioak 
 
 * Praat
+
+<img src="http://www1.cs.columbia.edu/~agus/tobi/tobi-praat/ex.gif" width="700">
+
+note:
+Praat doing Phonetics by Computer
+
++++
 
 * Etiketak
   * Zailtasun adierazleak
@@ -386,9 +412,9 @@ Etiketa sintaktikoak-eta
 
 ---
 
-### Zailtasunen distribuzioa corpuseko elementuetan zehar
+### Zailtasunen distribuzioa corpuseko elementuetan
 
-+++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/C-Zalantzak_danak.png&size=auto 80%
++++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/C-Zalantzak_danak.png&size=auto 70%
 
 ---
 
@@ -555,3 +581,4 @@ Eskerrak..
 * Laurari
 * Barnetegiko eta eskolako lagunei
 * Itziar
+ 
