@@ -51,7 +51,7 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 
 ## Zailtasunak adizki jokatuaren inguruan <span style="color:#9B1818">B2-C1 ibilbidean</span>
 
-+++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/A01-EHnEuskara.png&size=auto 95%
++++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/A01-EHnEuskara.png&size=auto 95%
 
 +++
 
@@ -83,16 +83,30 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 
 
 ---
-
 ## Zailtasunak <span style="color:#9B1818">adizki jokatua</span>ren inguruan B2-C1 ibilbidean
 
 +++
 
-### Adizki jokatua
+### Euskarazko adizki jokatua
 
-Adizki jokatuaren elementuak
+Aditz erroa
 
-Nik zuri liburuak gaur _eman**go nizkizuke**_
+Aspektua
+
+**Pertsona**
+
+**Numeroa**
+
+**Modua**
+
+**Tenpusa**
+
++++
+
+
+### Nik zuri liburuak gaur _eman**go nizkizuke**_
+
+### Lanean _**dihardut**_ 
 
 ---
 
@@ -226,6 +240,11 @@ Elementuak bakarka aztertzen ditu. Horretarako, delako ezaugarria neurtzen da al
 
 ### Datuak
 
+
+<img src="https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/A-Datuak_Grabaketak_eta_orduak.png" width="500">
+
+Note:
+
 Barnetegian
 
 Ikastun bat 
@@ -240,13 +259,38 @@ Ikastun bat
 
 #### Transkripzioak 
 
-Praat
+* Praat
 
-Etiketak
+* Etiketak
+  * Zailtasun adierazleak
+  * Etiketa sintaktikoak-eta beste
 
-Banaketa kokatu
+* Banaketa kokatu
 
-Banaketaren analisia
+> hori (·) esaaaan zidan
+
+
+* Banaketaren analisia
+
+note: 
+Zailtasun adierazleak:
+
+* soinu luzatuak
+* errepikapena
+* berba zatiak
+* erroreak
+* ...
+
+Etiketa sintaktikoak-eta
+
+* Adizki jokatua
+* Adizki nagusia
+* Aditz argumentua (zein)
+* Beste
+* Amaiera tonua
+* Formulazioaren amaiera
+
+* Danaketa kokatu
 
 ---
 
@@ -262,17 +306,16 @@ Banaketaren analisia
 
 ### Zailtasunen distribuzioa corpuseko elementuetan zehar
 
-+++
++++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/C-Zalantzak_danak.png 90%
 
-IRUDIA
 
 ---
 
 ### Zailtasunak adizkiaren inguruan
 
-+++
++++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/LaburBW-ezaug.png 90%
 
-IRUDIA
+
 
 ---
 
