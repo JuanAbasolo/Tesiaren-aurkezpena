@@ -104,9 +104,9 @@ Aspektua
 +++
 
 
-### Nik zuri liburuak gaur _eman**go nizkizuke**_
+### Nik zuri liburuak gaur _eman**go n-i-zki-zu-ke**_
 
-### Lanean _**dihardut**_ 
+### Lanean _**d-ihardu-t**_ 
 
 ---
 
@@ -126,6 +126,18 @@ Aspektua
 
 +++
 
+Soinu luzatuak
+
+Silabatze markatuak
+
+? Eten beteak
+
+? Eten isilak
+
+? Errepikapenak
+
++++
+
 ### Zailtasunak = zalantzak + <span style="color:#9B1818">zuzenketak</span> + erroreak
 
 
@@ -133,10 +145,33 @@ Aspektua
 
 +++
 
+? Errepikapenak
+
+Osatu gabeko berbak
+
+Birformulazioak
+
+note:
+Birfomulazioa = ageriko autozuzenketa
+
++++
+
 ### Zailtasunak = zalantzak + zuzenketak + <span style="color:#9B1818">erroreak</span>
 
 
 <img src="HautemateBegiztak01Erroreak.png" width="500">
+
+note:
+
+* erroreak garapenean / ikaskuntza prosezuan
+* erroreak (errakuntzak)
+
+Sailkapena:
+
+* Eza (zerbaiten falta)
+* Gehitzea (zerbait sobran)
+* Alegiazko hautua (okerreko elementua hautatzea)
+* Okerreko ordena
 
 +++
 
@@ -148,10 +183,6 @@ Aspektua
 ---
 
 ## Zailtasunak adizki jokatua<span style="color:#9B1818">ren inguruan</span> B2-C1 ibilbidean
-
-+++
-
-Levelt-en ereduaren barruko distantziak
 
 Note: gero azalduko da metodologian
 
@@ -173,13 +204,13 @@ note:
 
 +++
 
-#### Hipotesi orokorra
+### Hipotesi orokorra
 
->ikasleak komunikazio gaitasuna garatu ahala bere baitako gaitasun linguistikoa ere garatuko duenez, gramatika ezaugarriek adizki jokatuen ekoizpenean eragiten dizkien zailtasunak urritu egingo dira
+> Ikasleak komunikazio gaitasuna garatu ahala bere baitako gaitasun linguistikoa ere garatuko duenez, gramatika ezaugarriek adizki jokatuen ekoizpenean eragiten dizkien zailtasunak urritu egingo dira
 
----
++++
 
-#### Hipotesi zehatzak
+### Hipotesi zehatzak
 
 +++
 
@@ -196,15 +227,46 @@ note:
 
 +++
 
+##### Adizki jokatuaren aurreko etenaz
+
 > H3 : Zailtasun adierazleen banaketa eta adizki jokatuaren aurreko etenarena erlazionatuta egongo dira.
 
 +++
+
+##### Erroreak eta errakuntzak
 
 > H4 : Nahiz eta arauen araberako adizkiak batzuetan sortu ez, horiek ez dira erroreak izango, huts egiteak baino; sortu behar zituzkeen adizki horiek arauen arabera ere aurkituko baititugu B2 mailatik gora dabilen ikastunaren ekoizpenean.
 
 +++
 
+##### Ezaugarri zailak
+
 > H5 : Bada ezaugarri morfologiko, semantiko eta pragmatiko multzo bat zeinetan adizki jokatuaren inguruko zailtasunek banaketa bereizia duten.
+
+note:
+
+*Ezaugarri morfologikoak*
+
+H5a : Adizki jokatuaren inguruan zailtasun adierazle gehiago agertuko
+dira adizki markatuekin ez markatuekin baino
+
+*Ezaugarri semantikoak*
+
+H5b : Adizki jokatu inergatiboak zailtasun adierazle gehiago izango
+ditu inguruan, ergatiboak eta inakusatiboak baino.
+H5c : Aditz perifrastikoetan zailtasun adierazle gehiago egongo dira
+adizki jokatuaren inguruan, aditz trinkoetan baino.
+
+*Ezaugarri pragmatikoak*
+
+H5d : Gertaldi gutxiagoko adizki formek zailtasun adierazle gehiago
+izango dituzte inguruan, gertaldi gehiagokoek baino.
+H5e : Adizki jokatuaren inguruko zailtasunak gutxiago izango dira,
+aditz argumentuak formulatuta daudenean.
+H5f : Aditz argumentuak formulatzen direnetik zenbat eta denbora
+gehiago pasatu, zailtasun adierazle gehiago ikusiko dira adizki
+jokatuaren inguruan
+
 
 +++
 
@@ -228,7 +290,11 @@ note:
 
 ### Subjektu Bakarreko Diseinua
 
-Neurketa sistematikoa aldagai aske gabe eta aldagai askearekin.
+Neurketa sistematikoa aldi desberdinduetan.
+
+note:
+aldagai askea egon ala ez
+
 
 #### Batezbestekoa - Joera - Aldakortasuna
 
@@ -236,12 +302,19 @@ note:
 EHUn gutxi erabilia, antza, ibilbide handia beste inguru batzuetan.  
 Elementuak bakarka aztertzen ditu. Horretarako, delako ezaugarria neurtzen da aldi desberdinetan
 
++++
+
+![](https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/04-SSD.png)
+
+note:
+Gehitze errorea. Lanetik aterata
+
 ---
 
 ### Datuak
 
 
-<img src="https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/A-Datuak_Grabaketak_eta_orduak.png" width="500">
+<img src="https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/A-Datuak_Grabaketak_eta_orduak.png" width="800">
 
 Note:
 
@@ -269,10 +342,15 @@ Ikastun bat
 
 > hori (·) esaaaan zidan
 
-
 * Banaketaren analisia
 
 note: 
+## Praat
+
+Informazio aberatsa (soinuaren ezaugarri fisikoez)
+
+## Etiketak 
+
 Zailtasun adierazleak:
 
 * soinu luzatuak
@@ -306,14 +384,14 @@ Etiketa sintaktikoak-eta
 
 ### Zailtasunen distribuzioa corpuseko elementuetan zehar
 
-+++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/C-Zalantzak_danak.png 90%
++++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/C-Zalantzak_danak.png&size=auto 90%
 
 
 ---
 
 ### Zailtasunak adizkiaren inguruan
 
-+++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/LaburBW-ezaug.png 90%
++++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/LaburBW-ezaug.png&size=auto 90%
 
 
 
@@ -328,17 +406,14 @@ IRUDIA
 
 ### Adizki jokatuen ezaugarriak eta zailtasunak
 
-+++
++++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/LaburBW-ezaug.png&size=auto 90%
 
-IRUDIA
 
 ---
 
 ### Zailtasunen agerreraren bilakaera
 
-+++
-
-IRUDIA
++++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/LaburBW-AB-aldea01.png&size=auto 90%
 
 ---
 
@@ -354,6 +429,44 @@ IRUDIA
 ## Interpretazioa
 
 note:
+Adizkiak ekoiztea eta erabiltzea zaila da ikasle honentzat, behintzat. 
+
++++
+
+> (*nik~pro~*) kirol gehiago egiten egiten dut
+
+note:
+*kirol gehiago* eta *egiten* erraz. Ez dakigu, baina, zer dagoen horren atzean.
+
++++
+
+Zailtasunak taldeka
+
+> entzuteeen (0.8seg) eeh dugu
+
++++
+
+Adizki jokatuaren aurreko etena
+
+### = 
+
+zailtasun adierazlea
+
++++
+
+Ezaugarri pragmatikoak
+
+note:
+* maiztasuna
+* aurrez ahozkatutako argumentuak
+
++++
+
+Errakuntzak Vs garapeneko erroreak
+
++++
+
+Gaituago... zertan?
 
 ---
 
@@ -371,11 +484,20 @@ note:
 note:
 Hipotesien berrikuspena
 
++++
+
+H1 : bete da
+H2 : bete da
+H3 : bete da
+H4 : bete dela ematen du
+H5 : bete da
+H6 : ez da bete
+
 ---
 
 ## Mugak
 
-| SBD | Ingurua | Transkripzioa | Metodologia | Corpusaren tamaina |
+| SBD | Ing. | Transk. | Met. | Tamaina |
 |:----:|:----:|:---:|:---:|:---:|
 | A aldia| Formala| Triangulaziorik ez | Doitzeko | Gehitzeko |
 
@@ -387,9 +509,16 @@ note:
 
 ## Proposamenak
 
+note:
+Didaktika eta ikerketa
+
+## Osotarako proposamenak gehiegizko balentria?
+
+
+
 +++
 
-### Didaktika
+### Didaktikarako
 
 Hizkuntzaren __ezaugarri tenporalak__ era metodiko eta zehaztuan sartu
 
