@@ -184,7 +184,10 @@ Sailkapena:
 
 ## Zailtasunak adizki jokatua<span style="color:#9B1818">ren inguruan</span> B2-C1 ibilbidean
 
-Note: gero azalduko da metodologian
+note: 
+gero azalduko da metodologian
+
+### nik eeeez nion esan
 
 ---
 
@@ -295,6 +298,7 @@ Neurketa sistematikoa aldi desberdinduetan.
 note:
 aldagai askea egon ala ez
 
++++
 
 #### Batezbestekoa - Joera - Aldakortasuna
 
@@ -368,7 +372,7 @@ Etiketa sintaktikoak-eta
 * Amaiera tonua
 * Formulazioaren amaiera
 
-* Danaketa kokatu
+* Banaketa kokatu
 
 ---
 
@@ -384,16 +388,13 @@ Etiketa sintaktikoak-eta
 
 ### Zailtasunen distribuzioa corpuseko elementuetan zehar
 
-+++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/C-Zalantzak_danak.png&size=auto 90%
-
++++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/C-Zalantzak_danak.png&size=auto 80%
 
 ---
 
 ### Zailtasunak adizkiaren inguruan
 
-+++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/LaburBW-ezaug.png&size=auto 90%
-
-
++++?image= irudiak/LaburBW-Zailtasun adierazleen distribuzioa eta adizki jokatua01.png&size=auto 90%
 
 ---
 
