@@ -40,7 +40,7 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 
 ---
 
-##### <span style="color:#9B1818">Marko teorikoa</span>
+##### <span style="color:#FF0000">Marko teorikoa</span>
 ##### Hipotesiak
 ##### Marko metodologikoa
 ##### Azterketa
@@ -49,7 +49,7 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 
 ---
 
-## Zailtasunak adizki jokatuaren inguruan <span style="color:#9B1818">B2-C1 ibilbidean</span>
+## Zailtasunak adizki jokatuaren inguruan <span style="color:#FF0000">B2-C1 ibilbidean</span>
 
 +++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/A01-EHnEuskara.png&size=auto 95%
 
@@ -83,7 +83,7 @@ Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzte
 
 
 ---
-## Zailtasunak <span style="color:#9B1818">adizki jokatua</span>ren inguruan B2-C1 ibilbidean
+## Zailtasunak <span style="color:#FF0000">adizki jokatua</span>ren inguruan B2-C1 ibilbidean
 
 +++
 
@@ -110,7 +110,7 @@ Aspektua
 
 ---
 
-## <span style="color:#9B1818">Zailtasunak</span> adizki jokatuaren inguruan B2-C1 ibilbidean
+## <span style="color:#FF0000">Zailtasunak</span> adizki jokatuaren inguruan B2-C1 ibilbidean
 
 +++
 
@@ -120,7 +120,7 @@ Aspektua
 
 +++
 
-### Zailtasunak = <span style="color:#9B1818">zalantzak</span> + zuzenketak + erroreak
+### Zailtasunak = <span style="color:#FF0000">zalantzak</span> + zuzenketak + erroreak
 
 <img src="HautemateBegiztak01Barnekoa.png" width="500">
 
@@ -138,7 +138,7 @@ Silabatze markatuak
 
 +++
 
-### Zailtasunak = zalantzak + <span style="color:#9B1818">zuzenketak</span> + erroreak
+### Zailtasunak = zalantzak + <span style="color:#FF0000">zuzenketak</span> + erroreak
 
 
 <img src="HautemateBegiztak01CKanpokoa.png" width="500">
@@ -156,7 +156,7 @@ Birfomulazioa = ageriko autozuzenketa
 
 +++
 
-### Zailtasunak = zalantzak + zuzenketak + <span style="color:#9B1818">erroreak</span>
+### Zailtasunak = zalantzak + zuzenketak + <span style="color:#FF0000">erroreak</span>
 
 
 <img src="HautemateBegiztak01Erroreak.png" width="500">
@@ -176,13 +176,13 @@ Sailkapena:
 +++
 
 ## Zailtasunen
-# <span style="color:#9B1818">Continuuma</span>
+# <span style="color:#FF0000">Continuuma</span>
 
 ### zalantzak ←→ zuzenketak ←→ erroreak
 
 ---
 
-## Zailtasunak adizki jokatua<span style="color:#9B1818">ren inguruan</span> B2-C1 ibilbidean
+## Zailtasunak adizki jokatua<span style="color:#FF0000">ren inguruan</span> B2-C1 ibilbidean
 
 note: 
 gero azalduko da metodologian
@@ -192,7 +192,7 @@ gero azalduko da metodologian
 ---
 
 ##### Marko teorikoa
-##### <span style="color:#9B1818">Hipotesiak</span>
+##### <span style="color:#FF0000">Hipotesiak</span>
 ##### Marko metodologikoa
 ##### Azterketa
 ##### Interpretazioa
@@ -284,7 +284,7 @@ note:
 
 ##### Marko teorikoa
 ##### Hipotesiak
-##### <span style="color:#9B1818">Marko metodologikoa</span>
+##### <span style="color:#FF0000">Marko metodologikoa</span>
 ##### Azterketa
 ##### Interpretazioa
 ##### Ondorioak
@@ -380,7 +380,7 @@ Etiketa sintaktikoak-eta
 ##### Marko teorikoa
 ##### Hipotesiak
 ##### Marko metodologikoa
-##### <span style="color:#9B1818">Azterketa</span>
+##### <span style="color:#FF0000">Azterketa</span>
 ##### Interpretazioa
 ##### Ondorioak
 
@@ -422,7 +422,7 @@ IRUDIA
 ##### Hipotesiak
 ##### Marko metodologikoa
 ##### Azterketa
-##### <span style="color:#9B1818">Interpretazioa</span>
+##### <span style="color:#FF0000">Interpretazioa</span>
 ##### Ondorioak
 
 ---
@@ -476,7 +476,7 @@ Gaituago... zertan?
 ##### Marko metodologikoa
 ##### Azterketa
 ##### Interpretazioa
-##### <span style="color:#9B1818">Ondorioak</span>
+##### <span style="color:#FF0000">Ondorioak</span>
 
 ---
 
