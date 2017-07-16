@@ -24,7 +24,7 @@ Adizkiak erabiltzen nola ikasten den jakin nahi izatera.
 **Irakasle eta ikertzaile** kontratua. Profesional egin nahirik.  
 Zehatzago izan behar zuen: nola ikasten da adizkia ipintzen? Eta zerk ez du uzten horixe ikasten? Eta zer ikasten da? 
 
----
++++
 
 ### (zailtasunak + adizkiak) x ikastea
 
@@ -34,7 +34,7 @@ Abiapuntua hori izan zen.
 **Helmuga IKERKETA HAU** Helburuak 
 Euskalduntzen ari den heldu batek aditzak nola jokatzen dituen. Eta gaitasun komunikatiboan aurrera egiteak erabilera horretan zer eragiten duen aztertzen duena.
 
----
++++
 
 ##### Marko teorikoa
 ##### Hipotesiak
@@ -90,10 +90,14 @@ oinarri teorikoak -> hipotesiak -> marko metodologikoa ...
 |Estudiatzea|Ikastea|
 |Zer jakin|Zertan jakin|
 
+Zein toki du ezagutza linguistikoak?
+
 +++?image=https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/BaVsHEOC.png&size=auto 70%
 
 note:
-HEOK eta HEOC-en egitura oso antzerakoak. 
+HEOK eta HEOC-en egitura oso antzerakoak.  
+Gaitasun linguistikoaren alorrean, ezagutza fonologikoa eta ortografikoa aipattzen dituzte, baina oso gutxi zehaztua da. Ortografiaren soinuaz dihardu.  
+Ez prosodiaz, intonazioaz gutxi (ebaluazioan).
 
 ---
 
@@ -135,25 +139,15 @@ Krashen'ek 1977
 Leveltek 1989  
 Esatekoa eta esandakoa. Monitorizazio horrek begizta bi ditu, batean esateko eta bestean esandakoa aztertzen da.
 
-+++
+---
 
 ### Zailtasunak = <span style="color:#FF0000">zalantzak</span> + zuzenketak + erroreak
 
-<img src="HautemateBegiztak01Barnekoa.png" width="500">
+|zalantzak|barne begizta|
+|-|-|
+|Soinu luzatuak <br>Silabatze markatuak <br>? Eten beteak <br>? Eten isilak <br>? Errepikapenak|<img src="HautemateBegiztak01Barnekoa.png" width="500">|
 
-+++
-
-Soinu luzatuak
-
-Silabatze markatuak
-
-? Eten beteak
-
-? Eten isilak
-
-? Errepikapenak
-
-+++
+---
 
 ### Zailtasunak = zalantzak + <span style="color:#FF0000">zuzenketak</span> + erroreak
 
@@ -197,7 +191,7 @@ Sailkapena:
 
 ---
 
-## <span style="color:#FF0000">"..inguruan"?</span> 
+## <span style="color:#FF0000">..*inguruan*?</span> 
 
 |horrek |eeeez |zion |esan|
 |--|:--:|:--:|--|
