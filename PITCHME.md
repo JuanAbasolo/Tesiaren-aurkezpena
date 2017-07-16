@@ -71,7 +71,7 @@ oinarri teorikoak -> hipotesiak -> marko metodologikoa ...
 |urtea| 1991 | 2014 |
 |:-:|---:|---:|
 |adin tartea| 16-24 | 35-49 |
-|euskaldunak| % 26.4 | % 29.3 |
+|euskaldunak| % 26.4 | % 39.3 |
 |heldu euskaldunduak|| ~ % 12.9 ?|
 
 note:
@@ -686,6 +686,7 @@ __Beste elementu batzuk__: prosodiaren lanketa.
 ## Zailtasunak adizki jokatuaren inguruan B2-C1 ibilbidean
 
 ### Bilakaera kasu baten analisia
+
 
 note:
 Eskerrak..
