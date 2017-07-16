@@ -74,11 +74,11 @@ oinarri teorikoak -> hipotesiak -> marko metodologikoa ...
 |euskaldunak| % 26.4 | % 29.3 |
 |heldu euskaldunduak|| ~ % 12.9 ?|
 
-</br>
-
+note:
 **HABEko azterketak 2014**
-* B2 (erabiltzaile independentea) 1350 gai
-* C1 (erabiltzaile gaitua) 720 gai
+B2 (erabiltzaile independentea) 1350 gai
+
+C1 (erabiltzaile gaitua) 720 gai
 
 +++
 
@@ -368,11 +368,11 @@ Aurrez prestatutako 13 monologo
 
 ### Transkripzioak : Praat
 
-<img src="https://github.com/JuanAbasolo/irudiak/blob/master/03-Praat.png?raw=true" width="700">
+<img src="https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/03-Praat.png" width="700">
 
 note:
 Praat doing Phonetics by Computer.  
-Amsterdamgo Unibertsitatean garatutakoa.  
+Amsterdamgo Unibertsitatean garatutakoa.  Paul Boersma + David Weenink
 Informazio aberatsa (soinuaren ezaugarri fisikoez)
 
 ---
@@ -408,12 +408,12 @@ Etiketa sintaktikoak-eta
  :-:|:-:|:-:|:-:
  -|eten 0| eten 1| eten 2
  -|-| luzatua 0 |  luzatua 1 
- ABS <br> argumentua | - | aditz nagusia | adizki jokatua  
+ ABS <br> argumentua | - | aditz nagusia | adizki laguntzailea  
 
 note: 
 
-* transkripzioaren datuak LibreOffice calc-era. Bertan kalkulatu besteak.
-* Analisi estatistikoa
+* transkripzioaren datuak LibreOffice calc-era. Bertan kalkulatu kokapenak.
+* Analisi estatistikoa (R erabilita)
 
 ---
 
@@ -441,7 +441,9 @@ Silabak markatzen baditu, berriz, erdietan hurrengoa adizki jokatua.
 
 #### Aditz nagusian Vs adizki jokatuan
 
-<img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-nagVsjok.png?raw=true" height="550">
+<img src="https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/04-nagVsjok.png" height="550">
+
+Distribuzio bereiziak aurkitu arren, azalpen ahalmen handiagoa adizki laguntzaileak. Adizki nagusia ere berak azaldu dezake
 
 +++
 
@@ -451,8 +453,12 @@ Silabak markatzen baditu, berriz, erdietan hurrengoa adizki jokatua.
 huts egindako <br> helburu forma | asmatua | baliokidea(k)
 :-:|:-:|:-:
 dituzte|dituzte |  
-ditut | - | ditugula / nituzke
+ditut | - | ditugula <br> nituzke
 zidaten|-|?
+
+note:
+Forma bera edo baliokideak aurkitu ditugu, gutxi batzuetan izan ezik.  
+Corpusaren ezaugarriek baldintzatzen dute hori, antza.
 
 +++
 
@@ -460,17 +466,21 @@ zidaten|-|?
 
 ||betea |isila |
 |:-|:-:|:-:|
-|Eten betea| 0.19\*\*\* | - |
+|Eten betea| 0.19\*\*\* |  |
 |Errorea: falta | 0.25\*\*\* | -0.10\* |
 |Errorea: alegiazko hautua | 0.1* | 0.25\*\*\* |
-| Zalantza: soinu luzatua | -0.12\*\* | - |
+| Zalantza: soinu luzatua | -0.12\*\* |  |
 | Zuzenketa: errepikatua | -024\*\*\* | 0.19\*\*\*|
+
+note:
+Korrelazioa adizki jokatuaren aurreko etena eta zailtasunen artean.  
+Interesgarriak: erroreak.
 
 +++
 
 ### Adizkiaren inguruan
 
-<img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-Labur-zailtasunak.png?raw=true" height="550">
+<img src="https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/04-Labur-zailtasunak.png" height="550">
 
 note: 
 Azken zutabeak irudikatzen du adizki jokatuare kokapena, aurreko biek aurreko toki biak.  
@@ -480,7 +490,7 @@ Horrela, uler daiteke berba errepikatuaren hurrengoa adizki jokatua izateko auke
 
 ### Adizki jokatuen ezaugarriak
 
-<img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-Labur-ezaug.png?raw=true" height="550">
+<img src="https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/04-Labur-ezaug.png" height="550">
 
 note:
 Ez da erakusten toki desberdinik, soilik zailtasun adierazleak eta ezaugarriak.
@@ -489,7 +499,7 @@ Ez da erakusten toki desberdinik, soilik zailtasun adierazleak eta ezaugarriak.
 
 ### Agerreraren bilakaera
 
-<img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-Labur-AB-red.png?raw=true" height="550">
+<img src="https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/04-Labur-AB-red.png" height="550">
 
 note: 
 Kasu honetan, azken zutabeak corpus osoa irudikatzen du. Azken aurrekoak adizki jokatua eta horrela
@@ -531,6 +541,9 @@ Adizki jokatuaren aurreko etena
 
 zailtasun adierazlea
 
+note:
+Bat dator haren portaera beste zailtasun adierazleekin. Korrelazioak.
+
 +++
 
 Ezaugarri pragmatikoak
@@ -542,6 +555,9 @@ note:
 +++
 
 Errakuntzak Vs garapeneko erroreak
+
+note: 
+Garapeneko errorerik ez dugu identifikatu argi, gehienak errakuntzatzat hartu bear direla ikusteko ebidentzia.
 
 +++
 
@@ -611,7 +627,7 @@ note:
 
 > H6 : Adizki jokatuaren inguruan zailtasun adierazle gutxiago egongo dira eta urrunago, mailaz igo ahala.
 
-Forma ez arautuak gutxiago, bestelako zalantza adierazleak ugariagoak.
+Forma ez arautuak gutxiago, bestelako zailtasun adierazleak ugariagoak.
 
 note:   
 **H6** Errore morfologikoak behera, fonologikoak gora.
@@ -645,7 +661,7 @@ Didaktika eta ikerketa
 
 Hizkuntzaren __ezaugarri tenporalak__ era metodiko eta zehaztuan sartu
 
-Zailtasunak era kontziente eta sistematikoan identifikatu (gaitasun estrategikoa)
+Gaitasun estrategikoa: Zailtasunak era kontziente eta sistematikoan identifikatu
 
 +++
 
