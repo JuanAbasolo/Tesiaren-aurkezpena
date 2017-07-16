@@ -143,10 +143,11 @@ Esatekoa eta esandakoa. Monitorizazio horrek begizta bi ditu, batean esateko eta
 
 ### Zailtasunak = <span style="color:#FF0000">zalantzak</span> + zuzenketak + erroreak
 
-Barne begiztan zalantzak
 <img src="https://github.com/JuanAbasolo/Tesiaren-aurkezpena/blob/master/HautemateBegiztak01Barnekoa.png?raw=true" width="500">
 
 +++
+
+### Barne begiztan zalantzak
 
 Soinu luzatuak 
 
@@ -158,20 +159,15 @@ Silabatze markatuak
 
 ? Errepikapenak
 
----
-
-|Barne begiztan zalantzak
-|:-:|
-|<img src="https://github.com/JuanAbasolo/Tesiaren-aurkezpena/blob/master/HautemateBegiztak01Barnekoa.png?raw=true" width="500"> |
-| Soinu luzatuak · Silabatze markatuak · ? Eten beteak · ? Eten isilak · ? Errepikapenak|
-
----
++++
 
 ### Zailtasunak = zalantzak + <span style="color:#FF0000">zuzenketak</span> + erroreak
 
 <img src="HautemateBegiztak01CKanpokoa.png" width="500">
 
 +++
+
+### Kanpo begiztan zuzenketak
 
 ? Errepikapenak
 
@@ -370,7 +366,7 @@ Aurrez prestatutako 13 monologo
 
 ---
 
-#### Transkripzioak : Praat
+### Transkripzioak : Praat
 
 <img src="https://github.com/JuanAbasolo/irudiak/blob/master/03-Praat.png?raw=true" width="700">
 
@@ -381,9 +377,10 @@ Informazio aberatsa (soinuaren ezaugarri fisikoez)
 
 ---
 
-##### Etiketak
-  * Zailtasun adierazleak
-  * Etiketa sintaktikoak-eta beste
+### Etiketak
+
+#### Zailtasun adierazleak
+#### Etiketa sintaktikoak-eta beste
 
 note:
 Zailtasun adierazleak:
@@ -442,16 +439,6 @@ Silabak markatzen baditu, berriz, erdietan hurrengoa adizki jokatua.
 
 +++
 
-### Adizkiaren inguruan
-
-<img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-Labur-zailtasunak.png?raw=true" height="550">
-
-note: 
-Azken zutabeak irudikatzen du adizki jokatuare kokapena, aurreko biek aurreko toki biak.  
-Horrela, uler daiteke berba errepikatuaren hurrengoa adizki jokatua izateko aukera handia dagoela (erdiak) eta oso aukera gutxi (hausazkoa baino gutxiago) adizki jokatuarekin errepikapena hasteko.
-
-+++
-
 #### Aditz nagusian Vs adizki jokatuan
 
 <img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-nagVsjok.png?raw=true" height="550">
@@ -466,6 +453,28 @@ huts egindako <br> helburu forma | asmatua | baliokidea(k)
 dituzte|dituzte |  
 ditut | - | ditugula / nituzke
 zidaten|-|?
+
++++
+
+### Etenak
+
+||betea |isila |
+|:-|:-:|:-:|
+|Eten betea| 0.19*** | - |
+|Errorea: falta | 0.25*** | -0.10* |
+|Errorea: alegiazko hautua | 0.1* | 0.25*** |
+| Zalantza: soinu luzatua | -0.12** | - |
+| Zuzenketa: errepikatua | -024*** | 0.19***|
+
++++
+
+### Adizkiaren inguruan
+
+<img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-Labur-zailtasunak.png?raw=true" height="550">
+
+note: 
+Azken zutabeak irudikatzen du adizki jokatuare kokapena, aurreko biek aurreko toki biak.  
+Horrela, uler daiteke berba errepikatuaren hurrengoa adizki jokatua izateko aukera handia dagoela (erdiak) eta oso aukera gutxi (hausazkoa baino gutxiago) adizki jokatuarekin errepikapena hasteko.
 
 +++
 
@@ -503,7 +512,7 @@ Adizkiak ekoiztea eta erabiltzea zaila da ikasle honentzat, behintzat.
 
 +++
 
-> (*nik<sub>pro</sub>*) kirol gehiago egiten egiten dut
+> (*nik<sub>pro</sub>*) kirol gehiago egiteenn egiten dut
 
 note:
 *kirol gehiago* eta *egiten* erraz. Ez dakigu, baina, zer dagoen horren atzean.
@@ -538,6 +547,9 @@ Errakuntzak Vs garapeneko erroreak
 
 Gaituago... zertan?
 
+note: 
+Konta dezagun: azken grabazioaren biharamuenan C1eko azterketa gainditu zuen.
+
 ---
 
 ##### Marko teorikoa
@@ -566,7 +578,7 @@ note:
 
 > H2 : Adizki laguntzailearen inguruan zailtasun adierazle gehiago egongo dira aditz nagusiaren inguruan baino.
 
-Aditz nagusian agertzen diren zailtasunak adizki jokatuarekiko kokapenak azaltzen ditu.  
+Aditz nagusian agertzen diren zailtasun gehienak adizki laguntzailearekiko kokapenak azaltzen ditu.  
 
 +++
 
@@ -599,9 +611,7 @@ note:
 
 > H6 : Adizki jokatuaren inguruan zailtasun adierazle gutxiago egongo dira eta urrunago, mailaz igo ahala.
 
-Forma ez arautuak behera, bestelako zalantza adierazleak ugariagoak.
-
-
+Forma ez arautuak gutxiago, bestelako zalantza adierazleak ugariagoak.
 
 note:   
 **H6** Errore morfologikoak behera, fonologikoak gora.
