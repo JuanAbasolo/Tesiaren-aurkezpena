@@ -145,7 +145,7 @@ Esatekoa eta esandakoa. Monitorizazio horrek begizta bi ditu, batean esateko eta
 
 zalantzak|barne begizta|
 -|-|
-Soinu luzatuak <br>Silabatze markatuak <br>? Eten beteak <br>? Eten isilak <br>? Errepikapenak<TD VALIGN="TOP"><img src="https://github.com/JuanAbasolo/Tesiaren-aurkezpena/blob/master/HautemateBegiztak01Barnekoa.png?raw=true" width="500">|
+<img src="https://github.com/JuanAbasolo/Tesiaren-aurkezpena/blob/master/HautemateBegiztak01Barnekoa.png?raw=true" width="500">|Soinu luzatuak <br>Silabatze markatuak <br>? Eten beteak <br>? Eten isilak <br>? Errepikapenak<TD VALIGN="TOP">|
 
 ---
 
