@@ -139,7 +139,7 @@ Krashen'ek 1977
 Leveltek 1989  
 Esatekoa eta esandakoa. Monitorizazio horrek begizta bi ditu, batean esateko eta bestean esandakoa aztertzen da.
 
----
++++
 
 ### Zailtasunak = <span style="color:#FF0000">zalantzak</span> + zuzenketak + erroreak
 
@@ -460,11 +460,11 @@ zidaten|-|?
 
 ||betea |isila |
 |:-|:-:|:-:|
-|Eten betea| 0.19*** | - |
-|Errorea: falta | 0.25*** | -0.10* |
-|Errorea: alegiazko hautua | 0.1* | 0.25*** |
-| Zalantza: soinu luzatua | -0.12** | - |
-| Zuzenketa: errepikatua | -024*** | 0.19***|
+|Eten betea| 0.19\*\*\* | - |
+|Errorea: falta | 0.25\*\*\* | -0.10\* |
+|Errorea: alegiazko hautua | 0.1* | 0.25\*\*\* |
+| Zalantza: soinu luzatua | -0.12\*\* | - |
+| Zuzenketa: errepikatua | -024\*\*\* | 0.19\*\*\*|
 
 +++
 
@@ -677,4 +677,5 @@ Eskerrak..
 * Andoniri
 * Laurari
 * Barnetegiko eta eskolako lagunei
+* Ikastun sufrituari
 * Itziar
