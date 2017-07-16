@@ -3,7 +3,7 @@
 ### Bilakaera kasu baten analisia
 
 note:
-Eskerrak tribunalari etorri dira-eta
+Eskerrak tribunal kideai, etorri dira-eta
 
 ---
 
@@ -365,8 +365,9 @@ Aurrez prestatutako 13 monologo
 <img src="https://github.com/JuanAbasolo/irudiak/blob/master/03-Praat.png?raw=true" width="700">
 
 note:
-Praat doing Phonetics by Computer.
-Amsterdamgo Unibertsitatean garatutakoa.
+Praat doing Phonetics by Computer.  
+Amsterdamgo Unibertsitatean garatutakoa.  
+Informazio aberatsa (soinuaren ezaugarri fisikoez)
 
 ---
 
@@ -374,23 +375,7 @@ Amsterdamgo Unibertsitatean garatutakoa.
   * Zailtasun adierazleak
   * Etiketa sintaktikoak-eta beste
 
-##### Banaketa kokatu
-
- hori| (·) |esaaaan |zidan
- :-:|:-:|:-:|:-:
- -|eten 0| eten 1| eten 2
- -|-| luzatua 0 |  luzatua 1 
- ABS <br> argumentua | - | aditz nagusia | adizki jokatua  
-
-##### Banaketaren analisia
-
-note: 
-## Praat
-
-Informazio aberatsa (soinuaren ezaugarri fisikoez)
-
-## Etiketak 
-
+note:
 Zailtasun adierazleak:
 
 * soinu luzatuak
@@ -408,9 +393,20 @@ Etiketa sintaktikoak-eta
 * Amaiera tonua
 * Formulazioaren amaiera
 
-## Banaketa kokatu
++++
+
+##### Banaketa kokatu eta analizatu
+
+ hori| (·) |esaaaan |zidan
+ :-:|:-:|:-:|:-:
+ -|eten 0| eten 1| eten 2
+ -|-| luzatua 0 |  luzatua 1 
+ ABS <br> argumentua | - | aditz nagusia | adizki jokatua  
+
+note: 
 
 * transkripzioaren datuak LibreOffice calc-era. Bertan kalkulatu besteak.
+* Analisi estatistikoa
 
 ---
 
@@ -426,7 +422,7 @@ Etiketa sintaktikoak-eta
 
 ### Zailtasunen banaketa corpuseko elementuetan
 
-<img src="https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/C-Zalantzak_danak.png" height="500">
+<img src="https://raw.githubusercontent.com/JuanAbasolo/irudiak/master/C-Zalantzak_danak.png" height="450">
 
 note:
 Eta honetan zer ikusten da?  
@@ -436,7 +432,7 @@ Silabak markatzen baditu, berriz, erdietan hurrengoa adizki jokatua.
 
 ---
 
-### Zailtasunak adizkiaren inguruan
+### Adizkiaren inguruan
 
 <img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-Labur-zailtasunak.png?raw=true" height="550">
 
@@ -458,14 +454,14 @@ zidaten|-|?
 
 ---
 
-### Adizki jokatuen ezaugarriak eta zailtasunak
+### Adizki jokatuen ezaugarriak
 
 <img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-Labur-ezaug.png?raw=true" height="550">
 
 
 ---
 
-### Zailtasunen agerreraren bilakaera
+### Agerreraren bilakaera
 
 <img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-Labur-AB-red.png?raw=true" height="550">
 
@@ -539,13 +535,41 @@ note:
 Hipotesien berrikuspena
 
 +++
+> H1 : Zailtasun adierazleen banaketa aldatuko da adizki jokatua, adizki nagusia, aditz argumentu ala beste ezer izan.
+ 
+Aztertu ditugun zailtasun adierazle guztiek banaketa bereizia.  
 
-**H1:** Aztertu ditugun zailtasun adierazle guztiek banaketa bereizia.  
-**H2:** aditz nagusian agertzen diren zailtasunak adizki jokatuarekiko kokapenak azaltzen ditu.  
-**H3:** korrelazioa eten eta erroreen artean.  
-**H4:** kasu gehienak aurkitu dira.  
-**H5:** multzoatze batzuk identifikatu dira, beste batzuk identifikatzeko.  
-**H6:** forma ez arautuak behera, bestelako zalantza adierazleak ugariagoak.
++++
+
+> H2 : Adizki laguntzailearen inguruan zailtasun adierazle gehiago egongo dira aditz nagusiaren inguruan baino.
+
+Aditz nagusian agertzen diren zailtasunak adizki jokatuarekiko kokapenak azaltzen ditu.  
+
++++
+
+> H3 : Zailtasun adierazleen banaketa eta adizki jokatuaren aurreko etenarena erlazionatuta egongo dira.
+
+Korrelazioa eten eta erroreen artean.  
+
++++
+
+> H4 : Nahiz eta arauen araberako adizkiak batzuetan sortu ez, horiek ez dira erroreak izango, huts egiteak baino; sortu behar zituzkeen adizki horiek arauen arabera ere aurkituko baititugu B2 mailatik gora dabilen ikastunaren ekoizpenean.
+
+Kasu gehienak aurkitu dira.  
+
++++
+
+> H5 : Bada ezaugarri morfologiko, semantiko eta pragmatiko multzo bat zeinetan adizki jokatuaren inguruko zailtasunek banaketa bereizia duten.
+
+Multzoatze batzuk identifikatu dira, beste batzuk identifikatzeko.  
+
++++
+
+> H6 : Adizki jokatuaren inguruan zailtasun adierazle gutxiago egongo dira eta urrunago, mailaz igo ahala.
+
+Forma ez arautuak behera, bestelako zalantza adierazleak ugariagoak.
+
+
 
 note: 
 **H1***gehiketa* errorea kenduta, denek ad-jk.  
