@@ -190,10 +190,10 @@ Sailkapena:
 
 +++
 
-## Zailtasunen
-# <span style="color:#FF0000">Continuuma</span>
+### Zailtasunen
+## <span style="color:#FF0000">Continuuma</span>
 
-### zalantzak ←→ zuzenketak ←→ erroreak
+#### zalantzak ←→ zuzenketak ←→ erroreak
 
 ---
 
@@ -358,9 +358,7 @@ Aurrez prestatutako 13 monologo
 
 ---
 
-#### Transkripzioak 
-
-##### Praat
+#### Transkripzioak : Praat
 
 <img src="https://github.com/JuanAbasolo/irudiak/blob/master/03-Praat.png?raw=true" width="700">
 
@@ -430,11 +428,15 @@ Ikastun honek soinua luzatzen badu, aukeren herena dela hurrengo esaten duena ad
 
 Silabak markatzen baditu, berriz, erdietan hurrengoa adizki jokatua.  
 
----
++++
 
 ### Adizkiaren inguruan
 
 <img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-Labur-zailtasunak.png?raw=true" height="550">
+
+note: 
+Azken zutabeak irudikatzen du adizki jokatuare kokapena, aurreko biek aurreko toki biak.  
+Horrela, uler daiteke berba errepikatuaren hurrengoa adizki jokatua izateko aukera handia dagoela (erdiak) eta oso aukera gutxi (hausazkoa baino gutxiago) adizki jokatuarekin errepikapena hasteko.
 
 +++
 
@@ -442,28 +444,34 @@ Silabak markatzen baditu, berriz, erdietan hurrengoa adizki jokatua.
 
 <img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-nagVsjok.png?raw=true" height="550">
 
----
++++
 
-### Erroreak errakuntza
+### Erroreak eta asmatuak
+<br>
 
 huts egindako <br> helburu forma | asmatua | baliokidea(k)
 :-:|:-:|:-:
-dituzte|dituzte
+dituzte|dituzte |  
 ditut | - | ditugula / nituzke
 zidaten|-|?
 
----
++++
 
 ### Adizki jokatuen ezaugarriak
 
 <img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-Labur-ezaug.png?raw=true" height="550">
 
+note:
+Ez da erakusten toki desberdinik, soilik zailtasun adierazleak eta ezaugarriak.
 
----
++++
 
 ### Agerreraren bilakaera
 
 <img src="https://github.com/JuanAbasolo/irudiak/blob/master/04-Labur-AB-red.png?raw=true" height="550">
+
+note: 
+Kasu honetan, azken zutabeak corpus osoa irudikatzen du. Azken aurrekoak adizki jokatua eta horrela
 
 ---
 
@@ -539,6 +547,9 @@ Hipotesien berrikuspena
  
 Aztertu ditugun zailtasun adierazle guztiek banaketa bereizia.  
 
+note: 
+**H1***gehiketa* errorea kenduta, denek ad-jk.  
+
 +++
 
 > H2 : Adizki laguntzailearen inguruan zailtasun adierazle gehiago egongo dira aditz nagusiaren inguruan baino.
@@ -551,17 +562,26 @@ Aditz nagusian agertzen diren zailtasunak adizki jokatuarekiko kokapenak azaltze
 
 Korrelazioa eten eta erroreen artean.  
 
+note: 
+**H3** Gehi bestelako zailtasunekin, maila fisikoan espero izatekoa ere askotan.  
+
 +++
 
 > H4 : Nahiz eta arauen araberako adizkiak batzuetan sortu ez, horiek ez dira erroreak izango, huts egiteak baino; sortu behar zituzkeen adizki horiek arauen arabera ere aurkituko baititugu B2 mailatik gora dabilen ikastunaren ekoizpenean.
 
 Kasu gehienak aurkitu dira.  
 
+note: 
+**H4** Pentsatzekoa da, corpusaren tamainak ez duela utzi denak aurkitzen.  *gaitu*  
+
 +++
 
 > H5 : Bada ezaugarri morfologiko, semantiko eta pragmatiko multzo bat zeinetan adizki jokatuaren inguruko zailtasunek banaketa bereizia duten.
 
-Multzoatze batzuk identifikatu dira, beste batzuk identifikatzeko.  
+Multzokatze batzuk identifikatu dira, beste batzuk identifikatzeko.  
+
+note: 
+**H5** beste batzuk identifikatzeko  
 
 +++
 
@@ -571,12 +591,7 @@ Forma ez arautuak behera, bestelako zalantza adierazleak ugariagoak.
 
 
 
-note: 
-**H1***gehiketa* errorea kenduta, denek ad-jk.  
-**H2** 
-**H3** Gehi bestelako zailtasunekin, maila fisikoan espero izatekoa ere askotan.  
-**H4** Pentsatzekoa da, corpusaren tamainak ez duela utzi denak aurkitzen.  *gaitu*  
-**H5** beste batzuk identifikatzeko  
+note:   
 **H6** Errore morfologikoak behera, fonologikoak gora.
 
 ---
