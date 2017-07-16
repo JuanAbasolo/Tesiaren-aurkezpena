@@ -143,9 +143,9 @@ Esatekoa eta esandakoa. Monitorizazio horrek begizta bi ditu, batean esateko eta
 
 ### Zailtasunak = <span style="color:#FF0000">zalantzak</span> + zuzenketak + erroreak
 
-zalantzak|barne begizta|
--|-|
-<img src="https://github.com/JuanAbasolo/Tesiaren-aurkezpena/blob/master/HautemateBegiztak01Barnekoa.png?raw=true" width="500">|Soinu luzatuak <br>Silabatze markatuak <br>? Eten beteak <br>? Eten isilak <br>? Errepikapenak<TD VALIGN="TOP">|
+zalantzak||barne begizta
+-|-|-
+<img src="https://github.com/JuanAbasolo/Tesiaren-aurkezpena/blob/master/HautemateBegiztak01Barnekoa.png?raw=true" width="500">||Soinu luzatuak <br>Silabatze markatuak <br>? Eten beteak <br>? Eten isilak <br>? Errepikapenak<TD VALIGN="TOP">
 
 ---
 
