@@ -80,8 +80,6 @@ B2 (erabiltzaile independentea) 1350 gai
 
 C1 (erabiltzaile gaitua) 720 gai
 
-+++
-
 ### <span style="color:#04B404">Curriculum idatziak eta euskalduntze prozesua</span>
 
 |HEOC|Euskalduntzea|
